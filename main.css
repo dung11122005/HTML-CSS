@@ -109,7 +109,7 @@ div nav ul:nth-child(2) li:nth-child(2) button:hover {
 .computer-htd-dtqa-hdm{
     width: 400px;
     height: 250px;
-    background-color: rgb(238, 138, 138);
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     z-index: 999;
 }
